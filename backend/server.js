@@ -16,4 +16,4 @@ app.use(errorHandler)
 
 app.listen (port, () => console.log(`servidor iniciado en el puerto ${port}`))
 
-console.log("Hola homosexuales+")
+console.log("Hola homosexuales++")
